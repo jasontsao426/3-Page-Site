@@ -1,0 +1,115 @@
+
+html{
+  margin: 0px;
+}
+
+body {
+  font-family: Tahoma;
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 30px;
+}
+
+p{
+  font-size: 30px;
+}
+
+h3{
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+}
+
+
+.page1{
+  background-color: #f0f0f5;
+  margin-left: 270px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  height: 2000px;
+}
+
+.page2{
+  background-color: #f0f0f5;
+  margin-left: 270px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  height: 2200px;
+  }
+
+.page3{
+  background-color: #f0f0f5;
+  margin-left: 270px;
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  height: 1500px;
+  }
+.p3Image{
+  border-radius: 50%;
+}
+
+.headers{
+
+  text-align: left;
+  font-size: 30px;
+  padding: 30px;
+
+
+}
+
+.logo{
+  position: fixed;
+
+  top: 20px;
+  left: 20px;
+}
+
+
+.subContainers{
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-top: 30px;
+  height: 700px;
+
+}
+
+
+
+
+.subHeaders{
+
+  font-size: 25px;
+  text-align: left;
+
+
+}
+
+.twoCol{
+
+  height: 600px;
+}
+
+
+.contentContainers{
+
+  width: 50%;
+  float:left;
+
+
+}
+.contentContainers > img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
